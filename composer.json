@@ -20,8 +20,7 @@
         }
     ],
     "require": {
-        "symfony/framework-bundle": "~2.3",
-        "symfony/security-bundle": "~2.3"
+        "symfony/framework-bundle": "~2.3"
     },
     "require-dev": {
         "twig/twig": "~1.5",
